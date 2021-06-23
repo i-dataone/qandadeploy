@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/coins/register-creditcard", {data:[{}],fetch:{},mutations:[]});
