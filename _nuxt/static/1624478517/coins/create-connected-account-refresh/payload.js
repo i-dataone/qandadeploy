@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/coins/create-connected-account-refresh", {data:[{}],fetch:{},mutations:[]});

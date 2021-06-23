@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/questions/request-login", {data:[{}],fetch:{},mutations:[]});
