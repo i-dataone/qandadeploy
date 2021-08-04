@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/coins/history", {data:[{}],fetch:{},mutations:[["setLoginProcess","selectingAccount"]]});
