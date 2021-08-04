@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/coins/payment-request-button", {data:[{}],fetch:{},mutations:[["setLoginProcess","selectingAccount"]]});
